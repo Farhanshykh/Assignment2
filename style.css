@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#About{
+    font-style: italic;
+    color: green;
+}
+
+
+#horizontal{
+    color:silver;
+}
+
+#para{
+    color: silver;
+    font-size: small;
+}
+
+#div{
+    float: left;
+}
+
+.Heading{
+    font-size: xx-large;
+}
+
+#h2{
+    font-size: medium;
+}
+
+#div1{
+    float: right;
+}
+
+#para1{
+    font-size: small;
+    color: silver;
+}
+
+#images{
+    height: 35px;
+    width: 35px;
+    filter: invert(29%) sepia(74%) saturate(1719%) hue-rotate(170deg) brightness(95%) contrast(101%);
+}
